@@ -124,13 +124,12 @@ text-decoration: underline;
 	width:99%;
 	position:fixed;
 	margin-top: -40px;
-	
+	margin-left: auto;
+	margin-right: auto;
 	
 	}
 	
 	.nav1 ul {
-    
-    margin-left: 480px;
     list-style-type: none;
 	overflow:hidden; 
 	 
@@ -138,9 +137,9 @@ text-decoration: underline;
 	
 	.nav1 li {
 	font-size: 30px;
-	padding-right: 120px;
+	padding-right: 100px;
 	margin-top: -10px;
-	float:left;
+	float:right;
 	color:#f7f6fd;
 	}
 	
